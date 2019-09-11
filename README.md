@@ -28,7 +28,7 @@ message 资料表用于储存网站使用者资料，其结构如下：
 
 登入画面
 
-![image](screenshot/FireShot Capture 001 - 浙江大学聊天广场 - localhost.png)
+
 
 注册画面
 
