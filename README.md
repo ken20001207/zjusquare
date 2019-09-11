@@ -17,4 +17,35 @@ MySQL 的配置如下：
 该数据库需要有两张资料表："users" 和 ”message”。
 
 users 资料表用于储存网站使用者资料，其结构如下：
+
 ![image](screenshot/users.PNG)
+
+message 资料表用于储存网站使用者资料，其结构如下：
+
+![image](screenshot/message.PNG)
+
+## 网页截图
+
+登入画面
+
+![image](screenshot/FireShot Capture 001 - 浙江大学聊天广场 - localhost.png)
+
+注册画面
+
+![image](screenshot/FireShot Capture 002 - 浙江大学聊天广场 - localhost.png)
+
+主画面
+
+![image](screenshot/FireShot Capture 003 - 浙江大学聊天广场 - localhost.png)
+
+登入画面 （自适应为手机版面）
+
+![image](screenshot/FireShot Capture 004 - 浙江大学聊天广场 - localhost.png)
+
+注册画面 （自适应为手机版面）
+
+![image](screenshot/FireShot Capture 005 - 浙江大学聊天广场 - localhost.png)
+
+主画面 （自适应为手机版面）
+
+![image](screenshot/FireShot Capture 006 - 浙江大学聊天广场 - localhost.png)
