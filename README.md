@@ -17,4 +17,4 @@ MySQL 的配置如下：
 该数据库需要有两张资料表："users" 和 ”message”。
 
 users 资料表用于储存网站使用者资料，其结构如下：
-![image](picture or gif url)
+![image](screenshot/users.PNG)
